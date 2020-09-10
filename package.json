@@ -1,0 +1,12 @@
+{
+  "name": "snowpack-plugin-codegen",
+  "version": "1.0.0",
+  "description": "Integrate code generation into Snowpack's build pipeline",
+  "main": "index.js",
+  "repository": "git@github.com:pkaminski/snowpack-plugin-codegen.git",
+  "author": "Piotr Kaminski <piotr@ideanest.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "snowpack": "^2.10.3"
+  }
+}
